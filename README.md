@@ -4,7 +4,7 @@
 - Copyright (c) 2014-2018, The Monero Project
 
 
-## Compiling Edollar Core from Source
+## Compiling Edollar GUI from Source
 
 ### On Linux:
 
