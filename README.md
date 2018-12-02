@@ -135,7 +135,7 @@ More info: http://stackoverflow.com/a/35098040/1683164
 
 1. Install [msys2](http://msys2.github.io/), follow the instructions on that page on how to update packages to the latest versions
 
-2. Install edollar dependencies as described in [moneredollaro documentation](https://github.com/edollar-project/edollar) into msys2 environment
+2. Install edollar dependencies as described in [edollaro documentation](https://github.com/edollar-project/edollar) into msys2 environment
    **As we only build application for x86, install only dependencies for x86 architecture (i686 in package name)**
    ```
    pacman -S mingw-w64-i686-toolchain make mingw-w64-i686-cmake mingw-w64-i686-boost
